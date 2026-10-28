@@ -1,6 +1,6 @@
 # App
 
-Pasta `treino-app`. Repositório próprio, separado da API. Ainda não há código nem projeto gerado.
+Pasta `treino-app`. Repositório próprio, separado da API. O app Expo abre no celular pelo Expo Go e fala com a API publicada.
 
 As regras de produto estão em [produto.md](../../treino-api/docs/produto.md), na pasta irmã. Esse arquivo é a fonte. Não duplicar aqui.
 
